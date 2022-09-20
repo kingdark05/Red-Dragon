@@ -12,7 +12,32 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉🛑𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 :- 👇👇👇
+ 
+☯𝐑𝐄𝐃 𝐃𝐑𝐀𝐆𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓☯
+
+╠ලංකාවේ විශාලතම සහ සුපිරිම ╠𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 වනු ඇත...
+
+╠බොට් 𝗔𝗖𝗧𝗜𝗩𝗘 ද..කියලා බැලිමට ╠[𝐀𝐋𝐈𝐕𝐄] ලෙස පල කරන්න.
+
+╠(24×7) පැය විසිහතර තුළම ╠ක්‍රියාකරයි✅
+
+╠බොට් වැඩද කියලා බලන්න .𝗔𝗟𝗜𝗩𝗘 ╠ලෙස මැසේජ් එකක් දමන්න✅
+
+╠බොට්ගෙ 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗟𝗜𝗦𝗧 එක ╠ගන්න .𝗠𝗘𝗡𝗨 හෝ .𝗣𝗔𝗡𝗘𝗟ලෙස ╠මැසේජ් එකක් දමන්න✅
+
+╠𝗦𝗢𝗡𝗚, 𝗩𝗜𝗗𝗘𝗢, 𝗔𝗣𝗣𝗦, 𝗠𝗘𝗗𝗜𝗔𝗙𝗜𝗟𝗘, ╠𝗦𝗧𝗜𝗖𝗞𝗘𝗥, 𝗬𝗧 𝗩𝗜𝗗𝗘𝗢, 𝗜𝗠𝗔𝗚𝗘 වැනි දෑ ╠ඩව්න්ලෝඩ් කර ගැනීමට සහ තවත් ╠විශේෂ වැඩ කරගත හැක
+
+╠𝐍𝐎❗𝐒𝐏𝐀𝐌 ╣
+
+╠𝐍𝐎❗𝐑𝐈𝐏𝐎𝐓 ╣
+
+╠𝐍𝐎❗𝐑𝐈𝐏𝐎𝐓 𝐆𝐑𝐔𝐏╣
+
+╠𝐍𝐎❗𝐒𝐄𝐗 ╣
+
+
+[ᴿᴵʸᴬᴸ 𝙺𝙸𝙽𝙶 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻 ]` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,10 +54,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
+global.vcardowner = ['+94774967570'] // owner number
+global.ownername = "[ᴿᴵʸᴬᴸ 𝙺𝙸𝙽𝙶 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻 ]" // owner name
+global.ytname = "Future Sailor ⚓️🍃" // yt chanel name
+global.socialm = "GitHub: kingdark05" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
@@ -47,13 +72,13 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
+global.owner = ['+94774967570']
+global.ownertag = '+94774967570' //your tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.dragonemoji = '🍁' // Menu emoji
+global.footer = '[ᴿᴵʸᴬᴸ 𝙺𝙸𝙽𝙶 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻 ]' //
 
 //database
 global.premium = ['+380944814219'] //ur premium numbers
